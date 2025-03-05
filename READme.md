@@ -4,7 +4,7 @@ A simple leaderboard web application that allows users to submit their name, cou
 
 ## Demo
 
-Check out the live demo of the application here: [Leaderboard Demo]()
+Check out the live demo of the application here: [Leaderboard Demo](https://pyhtondevelopernishu.github.io/LeaderBoard_js/)
 
 ## Features
 
